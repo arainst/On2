@@ -1,211 +1,122 @@
 #EXTM3U
 
+#EXTM3U
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/f8/9a/f2/f89af263da81ca8ca43af3e3ec4f4bf4.jpg" group-title="🔴⚪NASIONAL"
+
+#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-id="tv1.my" tvg-logo="https://i.pinimg.com/236x/14/d9/24/14d924bd576994eead6db27f9f67b429.jpg",TV1 MALAYSIA
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+
+#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-id="tv2.my" tvg-logo="https://i.pinimg.com/236x/25/40/23/254023c9908116a0260f391864a8c4af.jpg",TV2 MALAYSIA
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+
+#EXTINF:-1 tvg-id="TV3" group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/72/93/6b/72936b9b30464fe437ce3c46fbb10689.jpg",TV3 Malaysia
+https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Nb/Nb1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7e/71/43/7e714309e9e50baaf3699db6898025c2.jpg" group-title="🔴⚪NASIONAL",TV 6 Malaysia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f4/35/55/f43555dee8558dd9b6cc02e40ef4d705.jpg" group-title="🔴⚪NASIONAL",TV9 Malaysia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/474x/3d/fd/d4/3dfdd41ad4afb593d220d3bb92fde927.jpg",RTB SUKMAINDERA BRUNAI
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/fb/f8/49/fbf849605237ee56c69a37510e215ea8.jpg", RCTI
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Rct.m3u8
+#https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+#https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#https://allcutv.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1 group-title="🔴⚪NASIONAL" tvg-logo="https://i.pinimg.com/236x/fb/f8/49/fbf849605237ee56c69a37510e215ea8.jpg", RCTI SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+
+#EXTINF:-1 type="movie" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds"
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 1
-https://ichinime.4meplayer.pro/hls/cPwvBTu2iNqoFvI_s0mfBQ/luy/xieomnsk/mdhbdj/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://ichinime.4meplayer.pro/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/YkrPZqHdVo2nHbYu00xPvg/luy/ojqwdpsm/mdhbdj/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 2
+https://s8n.aurorionagency.cfd/v4/ic/nki3p/index-f1-v1-a1.txt?k=HF0WeQxelPXp7_GMOT_T8w&kx=1783625755
 https://ichinime.4meplayer.pro/hls/RUu7AsNOLkA0hwwKgbVrLw/ic/ipljeq8a/ijlgjz/tt/index-f2-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 3
-https://ichinime.4meplayer.pro/hls/JDdNZSwP3Vu6WdenEk9jqA/ek/xieomnsk/ltdsti/tt/index-f2-v1-a1.m3u8?v=1766826492
+https://s8n.clarionlab.cyou/v4/ek/emaf8/index-f1-v1-a1.txt?k=6l_AJB60i1S1MIdiwM__0g&kx=1783625828
+#https://ichinime.4meplayer.pro/hls/JDdNZSwP3Vu6WdenEk9jqA/ek/xieomnsk/ltdsti/tt/index-f2-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 4
-https://ichinime.4meplayer.pro/hls/S6vZ16LfhwI9kbidzqo2-g/mik/ipljeq8a/cmaqmq/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://s6d.harborviewdesigncollect.cyou/v4/mik/9zhub/index-f1-v1-a1.txt?k=K7wEx-egKXclvfKzQq9_eg&kx=1783625884
+#https://ichinime.4meplayer.pro/hls/S6vZ16LfhwI9kbidzqo2-g/mik/ipljeq8a/cmaqmq/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 5
-https://ichinime.4meplayer.pro/hls/_dGJmG9L9Tue7xTn22lnog/rw/ipljeq8a/mdhbre/tt/index-f2-v1-a1.m3u8?v=1766826492
+https://s6d.portfolioanalytics.cfd/v4/rw/fj6yq/index-f1-v1-a1.txt?k=o7bwvRssU83G93gFwjGqpw&kx=1783625946
+#https://ichinime.4meplayer.pro/hls/_dGJmG9L9Tue7xTn22lnog/rw/ipljeq8a/mdhbre/tt/index-f2-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 6
-https://ichinime.4meplayer.pro/hls/bwEjZyy48owZnN7NuTk84A/36/ipljeq8a/p3ohtn/tt/index-f2-v1-a1.m3u8?v=1766826492
+https://s8n.lakesidecreativeatelier.sbs/v4/36/hfplb/index-f1-v1-a1.txt?k=bGbN7f7HWkagcvfQ0jEWYQ&kx=1783625997
+#https://ichinime.4meplayer.pro/hls/bwEjZyy48owZnN7NuTk84A/36/ipljeq8a/p3ohtn/tt/index-f2-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 7
-https://ichinime.4meplayer.pro/hls/x-21XikYSZc97MxAZOht9w/m9/6spnil6i/t6zcih/tt/index-f2-v1-a1.m3u8?v=1766826492
+https://s6d.documentationhubsite.site/v4/m9/5itbl/index-f1-v1-a1.txt?k=-UtMQhx4j2M7jQg7s2Nqnw&kx=1783626070
+#https://ichinime.4meplayer.pro/hls/x-21XikYSZc97MxAZOht9w/m9/6spnil6i/t6zcih/tt/index-f2-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLSs0KI1tAimagbGzMjeVnQ6JKwJjsSuI1dbnVc_h2ew&s=10" group-title="SERIES Bloodhounds", EP 8
-https://ichinime.4meplayer.pro/hls/7UhhsosIXs32bEmJnWyE7w/ek/xieomnsk/mdhbrq/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://s8n.meadowlarkproductionworks.cfd/v4/ek/5itbw/index-f1-v1-a1.txt?k=6LK3Ro9ueYZJWfG-YQkDjw&kx=1783626123
+#https://ichinime.4meplayer.pro/hls/7UhhsosIXs32bEmJnWyE7w/ek/xieomnsk/mdhbrq/tt/index-f1-v1-a1.m3u8?v=1766826492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k9uQW9Jn9zsZ6-46X7EHq4Kf4JQmxX6CNTJTHd5IwA&s=10" group-title="SERIES bloodhounds S2", ep1
-https://ichinime.4meplayer.pro/hls/K7Df0HcuHkciZtSWyS0kfA/js/ipljeq8a/3gw86k/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://soq.mirevana.online/v4/js/asvuzv/index-f1-v1-a1.txt?t=79cfec5cb32459ff550fa65b&e=1765241578&k=5jXn8Yk8HxfLsdlXQzYhzQ&kx=1783626321
+#https://ichinime.4meplayer.pro/hls/K7Df0HcuHkciZtSWyS0kfA/js/ipljeq8a/3gw86k/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k9uQW9Jn9zsZ6-46X7EHq4Kf4JQmxX6CNTJTHd5IwA&s=10" group-title="SERIES bloodhounds S2", ep2
-https://ichinime.4meplayer.pro/hls/rY2rC7SVhXyCx3hDDFlDJQ/m9/ipljeq8a/dz8u1s/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://s6mb.aurorionbranding.site/v4/m9/vheo3l/index-f1-v1-a1.txt?t=79cfec5cb32459ff550fa65b&e=1765241578&k=t63qISMTHOektydaQHt-Cg&kx=1783626385
+#https://ichinime.4meplayer.pro/hls/rY2rC7SVhXyCx3hDDFlDJQ/m9/ipljeq8a/dz8u1s/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k9uQW9Jn9zsZ6-46X7EHq4Kf4JQmxX6CNTJTHd5IwA&s=10" group-title="SERIES bloodhounds S2", ep3
-https://ichinime.4meplayer.pro/hls/jwRJP80yZIHEe8zelyXIqg/36/xieomnsk/jytrbr/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://strr.goldenharvestcreative.cfd/v4/36/ke6fre/index-f1-v1-a1.txt?t=79cfec5cb32459ff550fa65b&e=1765241578&k=Oi_oXncXCOwRM-naW-I-7A&kx=1783626445
+#https://ichinime.4meplayer.pro/hls/jwRJP80yZIHEe8zelyXIqg/36/xieomnsk/jytrbr/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k9uQW9Jn9zsZ6-46X7EHq4Kf4JQmxX6CNTJTHd5IwA&s=10" group-title="SERIES bloodhounds S2", ep4
-https://ichinime.4meplayer.pro/hls/i3KcayW_5pm53P5HYduY6Q/lf/ipljeq8a/qb5nm3/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://sau.oakridgeartisanatelier.cyou/v4/lf/wilat1/index-f1-v1-a1.txt?t=79cfec5cb32459ff550fa65b&e=1765241578&k=VFkisrfU37P601jSDl4NpQ&kx=1783626495
+#https://ichinime.4meplayer.pro/hls/i3KcayW_5pm53P5HYduY6Q/lf/ipljeq8a/qb5nm3/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k9uQW9Jn9zsZ6-46X7EHq4Kf4JQmxX6CNTJTHd5IwA&s=10" group-title="SERIES bloodhounds S2", ep5
-https://ichinime.4meplayer.pro/hls/Rr8a7BVEoBXlfFGbKnIxOg/ek/xieomnsk/5i13hf/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://sad.fitnessexperts.shop/v4/ek/uno9eq/index-f1-v1-a1.txt?t=79cfec5cb32459ff550fa65b&e=1765241578&k=wgP_Be8rzzrsgUbEbJyjWA&kx=1783626555
+#https://ichinime.4meplayer.pro/hls/Rr8a7BVEoBXlfFGbKnIxOg/ek/xieomnsk/5i13hf/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k9uQW9Jn9zsZ6-46X7EHq4Kf4JQmxX6CNTJTHd5IwA&s=10" group-title="SERIES bloodhounds S2", ep6
-https://ichinime.4meplayer.pro/hls/EGqsQ9a-slIuKTp9nZx44w/sc/dq8zrxeh/buifdl/tt/index-f1-v1-a1.m3u8?v=1766826492
+https://soq.petloversspace.space/v4/sc/q5ngh9/index-f1-v1-a1.txt?t=79cfec5cb32459ff550fa65b&e=1765241578&k=2uuqsWuhSTw0ZJYl9FIb0Q&kx=1783626608
+#https://ichinime.4meplayer.pro/hls/EGqsQ9a-slIuKTp9nZx44w/sc/dq8zrxeh/buifdl/tt/index-f1-v1-a1.m3u8?v=1766826492
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://tv8.lk21official.cc/
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9k9uQW9Jn9zsZ6-46X7EHq4Kf4JQmxX6CNTJTHd5IwA&s=10" group-title="SERIES bloodhounds S2", ep7
-https://ichinime.4meplayer.pro/hls/zIp_P4mfPcgqcFDR3UBNpg/m9/xieomnsk/p3oh5z/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-
-
-dewasa
-EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",MEN'S NEC♂️ 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index1/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",2 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index2/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",3 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index5/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",4 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index7/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVe56sB.jpeg" group-title="DEWASA",5 🇯🇵
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4f627d962f2487f9d34c723f662ad5e:76b6fc1d5c60dcbadea1fe42338c95b4
-https://streaml01cf.nxtv.jp/p-menecoch01-amni5j72tc/index9/manifest.mpd
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",extasy HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-https://cdn4.skygo.mn/live/disk1/Extasy/HLSv3-FTA/Extasy.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",Dorcel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-https://cdn4.skygo.mn/live/disk1/Dorcel/HLSv3-FTA/Dorcel.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",Desire HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",Leo HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Blu3Hu5tlerDEWASA" group-title="DEWASA" tvg-logo="",LEO Gold
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_leogold_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",Reality Kings HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Blu3Hu5tlerDEWASA" group-title="DEWASA" tvg-logo="",Dusk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",erox HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",eroxxx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://143.244.63.87/eroxxx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",eroxxx HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",Brazzers HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="DEWASA",Babes HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="DEWASA" tvg-id="Babes",Babes 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://cdn4.skygo.mn/live/disk1/Babes/HLSv3-FTA/Babes.m3u8
-
-#EXTINF:-1 tvg-id="exxxotica" group-title="DEWASA",PENTHOUSE GOLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="exxxotica" group-title="DEWASA",PENTHOUSE REALITY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://185.98.209.11:81/penthouse2/index.m3u8?token=test
-
-#EXTINF:-1 tvg-id="exxxotica" group-title="DEWASA",PINK EROTIC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://143.244.63.87/pinkerotic2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="exxxotica" group-title="DEWASA",PINK EROTIC 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://143.244.63.87/pinkerotic3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="exxxotica" group-title="DEWASA",OLA LA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://31.148.48.15:80/O-la-la/index.m3u8
-
-#EXTINF:-1 group-title="DEWASA" tvg-logo="http://epg.it999.ru/img2/3249.png" tvg-chno="11100623",Playboy TV Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="DEWASA",HUSTLER HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://85.14.32.26:8800/udp/239.100.10.58:5000
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-
-#EXTINF:-1 group-title="DEWASA",Cento X Cento
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://85.14.32.26:8800/udp/239.100.10.89:5000
-
-#EXTINF:-1 group-title="DEWASA",Brazzers TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://85.14.32.26:8800/udp/239.100.10.190:5000
-
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="DEWASA", Porn Classic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="http://1.bp.blogspot.com/-E-qvJLo_j1s/UB7Jd47Ro2I/AAAAAAAAATw/qQskQfN6tQ4/s1600/miami-tv-logo-gif2_design.png" group-title="DEWASA",Miami TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB4141/chuklist.m3u8
-
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",惊艳
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",pandora
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",Banana
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",潘朵啦
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",彩虹
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",amazing tv
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",松1
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",松1b
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",松2
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",松2b
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",松3
-http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
-#EXTINF:-1 ch-number="" tvg-id="0419" tvg-logo="https://mimipipi22.github.io/logo/png/clarosports.png" group-title="DEWASA",松3b
-http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-
+https://svz.sunrisevalleycreativeworks.store/v4/m9/8cxhal/index-f1-v1-a1.txt?t=79cfec5cb32459ff550fa65b&e=1765241578&k=SG_WBRZ4V1sRhlqhI3hk4g&kx=1783626659
+#https://ichinime.4meplayer.pro/hls/zIp_P4mfPcgqcFDR3UBNpg/m9/xieomnsk/p3oh5z/tt/index-f1-v1-a1.m3u8?v=1766826492
